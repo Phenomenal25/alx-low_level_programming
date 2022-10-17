@@ -17,5 +17,5 @@ if (low != e && low != q)
 putchar(low);
 }
 printf("\n");
-return (0); 
+return (0);
 }
